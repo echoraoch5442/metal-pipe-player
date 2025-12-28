@@ -1,6 +1,5 @@
 # Metal Pipe Player
-A Discord bot that repeatedly plays an audio file in a random interval. You can [invite the public version](https://discord.com/api/oauth2/authorize?client_id=1086952097301405806&permissions=8&scope=applications.commands%20bot) of the bot (might be offline) or self host it.
-
+A Discord bot that repeatedly plays an audio file in a random interval.
 ## Installation (self host)
 1. Install [Node.js](https://nodejs.org/en).
 2. Clone the GitHub repository.

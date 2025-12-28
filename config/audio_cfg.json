@@ -14,5 +14,13 @@
             "min": 1000,
             "max": 1000
         }
+    },
+    "923857340665561138": {
+        "name": "Metal Pipe Falling Sound Effect",
+        "path": "audio/Metal pipe falling sound effect but it’s more violent.mp3",
+        "delay": {
+            "min": 10000,
+            "max": 100000
+        }
     }
 }
